@@ -1,0 +1,40 @@
+﻿<Window x:Class="CookBook.AddWindow"        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:libs="clr-namespace:PixelLab.Wpf;assembly=PixelLab.Wpf"
+        Title="Добавление рецепта" Height="504" Width="507" Background="LemonChiffon" WindowStartupLocation="CenterScreen">
+    <Viewbox>
+        <Grid Name="grid" Height="478" Width="Auto">
+            <Label Content="Ингридиенты" Height="32" HorizontalAlignment="Left" Margin="172,55,0,0" Name="label1" VerticalAlignment="Top" Width="106" FontStretch="Condensed" FontStyle="Italic" FontWeight="Bold" />
+            <Label Content="Дополнительное описание" Height="33" HorizontalAlignment="Center" Margin="171,217,140,0" Name="label5" VerticalAlignment="Top" Width="188" FontStretch="Condensed" FontStyle="Italic" FontWeight="Bold" />
+            <Button Content="Добавить рецепт" Height="35" HorizontalAlignment="Center" Name="addRecipeButton" VerticalAlignment="Bottom" Width="140" Margin="177,0,182,9" Click="AddRecipeClick">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF4A47A9" Offset="0" />
+                        <GradientStop Color="#FFD7A0A0" Offset="1" />
+                    </LinearGradientBrush>
+                </Button.Background>
+                <Button.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFD0C7AD" Offset="0" />
+                        <GradientStop Color="White" Offset="1" />
+                    </LinearGradientBrush>
+                </Button.Foreground>
+            </Button>
+            <Label Content="Тип блюда" Height="32" HorizontalAlignment="Left" Margin="35,31,0,0" Name="label6" VerticalAlignment="Top" Width="78" FontStretch="Condensed" FontStyle="Italic" FontWeight="Bold" />
+            <libs:InfoTextBox TextBoxInfo="Введите название блюда" Margin="36,0,151,447" Name="recipeName" TextChanged="RecipeNameTextChanged" />
+            <ComboBox Height="23" HorizontalAlignment="Left" IsEditable="True" Margin="173,32,0,0" Name="recipeType" VerticalAlignment="Top" Width="175" GotFocus="RecipeTypeGotFocus" />
+            <Button Height="23" HorizontalAlignment="Left" Margin="391,210,0,0" Name="addRowButton" VerticalAlignment="Top" Width="75" Content="Добавить" Click="AddRowClick" />
+            <DataGrid Margin="26,79,33,268" x:Name="dataGrid1" Width="440" AutoGenerateColumns="False" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Width="2*" Header="Наименование" Binding="{Binding Path=Ingr}"/>
+                    <DataGridTextColumn Width="1*" Header="Количество"  Binding="{Binding Path=Col}"  />
+                    <DataGridComboBoxColumn x:Name="dgCombo2" Width="2*" Header="Единица измерения"  SelectedItemBinding="{Binding Path=Ed}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <libs:InfoTextBox TextBoxInfo="Введите описание блюда" Margin="25,239,30,54" Name="recipeText" AcceptsReturn="True" 
+                              TextWrapping="Wrap" VerticalScrollBarVisibility="Visible" MaxWidth="444" />
+        </Grid>
+    </Viewbox>
+</Window>

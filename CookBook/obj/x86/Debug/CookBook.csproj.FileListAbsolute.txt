@@ -1,0 +1,25 @@
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\bin\Debug\CookBook.exe
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\bin\Debug\CookBook.pdb
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\MainWindow.baml
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\MainWindow.g.cs
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\App.g.cs
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook_MarkupCompile.cache
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook.g.resources
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook.Properties.Resources.resources
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook.exe
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook.pdb
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\AddWindow.baml
+c:\users\acer5740\documents\visual studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\AddWindow.g.cs
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\bin\Debug\PixelLab.Wpf.dll
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\bin\Debug\CookBook.exe.config
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\bin\Debug\PixelLab.Common.dll
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\bin\Debug\CookBook.exe.manifest
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\bin\Debug\CookBook.application
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook.exe.manifest
+C:\Users\Acer5740\Documents\Visual Studio 2010\Projects\CookBook\CookBook\obj\x86\Debug\CookBook.application
+D:\Study\!LABS\OLD\Хрень\CookBook\CookBook\bin\Debug\CookBook.exe.config
+D:\Study\!LABS\OLD\Хрень\CookBook\CookBook\obj\x86\Debug\CookBook.exe
+D:\Study\!LABS\OLD\Хрень\CookBook\CookBook\obj\x86\Debug\CookBook.pdb

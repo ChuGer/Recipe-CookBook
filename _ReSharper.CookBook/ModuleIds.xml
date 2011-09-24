@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="16B0A84B-4528-4286-B63C-FB73B6E56235" ModuleId="CookBook" />
+  <Module PersistentId="PixelLab.Wpf, Version=0.0.0.0, Culture=neutral" ModuleId="PixelLab.Wpf" />
+</Modules>

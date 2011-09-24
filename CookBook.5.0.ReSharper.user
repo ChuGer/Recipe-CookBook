@@ -1,0 +1,711 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:Settings.cs" caret="0" fromTop="0" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:AddWindow.xaml" caret="1" fromTop="0" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:App.xaml" caret="0" fromTop="0" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:AddWindow.xaml.cs" caret="2001" fromTop="0" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml" caret="846" fromTop="4" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="5739" fromTop="117" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="22" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="23" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="33" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="14" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="25" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="9" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="18" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="34" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="6" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11554" fromTop="340" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="1340" fromTop="17" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="3425" fromTop="17" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="6699" fromTop="17" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="9080" fromTop="10" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="8110" fromTop="16" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="7284" fromTop="16" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="10428" fromTop="17" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="10567" fromTop="17" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11397" fromTop="17" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="651" fromTop="10" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="1223" fromTop="27" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="6450" fromTop="22" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:AddWindow.xaml.cs" caret="95" fromTop="1" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:AddWindow.xaml.cs" caret="753" fromTop="12" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="970" fromTop="23" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:AddWindow.xaml.cs" caret="1309" fromTop="28" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:AddWindow.xaml" caret="1" fromTop="0" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="3059" fromTop="14" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="11101" fromTop="26" />
+      <File id="16B0A84B-4528-4286-B63C-FB73B6E56235/f:MainWindow.xaml.cs" caret="8487" fromTop="42" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="4" />
+      <Item value="AddWindow`0" priority="3" />
+      <Item value="var" priority="5" />
+      <Item value="new" priority="53" />
+      <Item value="addWindow" priority="2" />
+      <Item value="ValidationResult`0" priority="0" />
+      <Item value="List`0" priority="0" />
+      <Item value="listBox1" priority="1" />
+      <Item value="Visibility`0" priority="0" />
+      <Item value="textBox1" priority="0" />
+      <Item value="comboBox1" priority="3" />
+      <Item value="List" priority="15" />
+      <Item value="string" priority="32" />
+      <Item value="weigthList" priority="1" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="foreach" priority="14" />
+      <Item value="Control`0" priority="1" />
+      <Item value="System" priority="3" />
+      <Item value="Windows" priority="1" />
+      <Item value="Controls" priority="1" />
+      <Item value="ComboBox`0" priority="7" />
+      <Item value="this" priority="7" />
+      <Item value="wString" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="Application`0" priority="0" />
+      <Item value="grid" priority="0" />
+      <Item value="if" priority="23" />
+      <Item value="item" priority="4" />
+      <Item value="is" priority="3" />
+      <Item value="combo" priority="0" />
+      <Item value="VARIABLE" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="i" priority="3" />
+      <Item value="PixelLab.Wpf" priority="0" />
+      <Item value="textBox7" priority="4" />
+      <Item value="null" priority="2" />
+      <Item value="textBox7_TextChanged`0" priority="0" />
+      <Item value="FontStyle`0" priority="1" />
+      <Item value="private" priority="22" />
+      <Item value="edCount" priority="1" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="box" priority="10" />
+      <Item value="ingrGrid" priority="3" />
+      <Item value="true" priority="7" />
+      <Item value="Center" priority="1" />
+      <Item value="Top" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="comboBox4" priority="0" />
+      <Item value="dataGrid1" priority="15" />
+      <Item value="partial" priority="0" />
+      <Item value="class" priority="4" />
+      <Item value="public" priority="13" />
+      <Item value="Ingridient`0" priority="10" />
+      <Item value="ObservableCollection&lt;Ingridient&gt;" priority="0" />
+      <Item value="Ingridient" priority="5" />
+      <Item value="ingrColl" priority="2" />
+      <Item value="ingr" priority="6" />
+      <Item value="col" priority="1" />
+      <Item value="ed" priority="0" />
+      <Item value="Collection" priority="2" />
+      <Item value="DataGridComboBoxColumn`0" priority="0" />
+      <Item value="SSS" priority="0" />
+      <Item value="dg" priority="1" />
+      <Item value="LanguageSpecificStringDictionary`0" priority="0" />
+      <Item value="lst" priority="0" />
+      <Item value="Fis" priority="0" />
+      <Item value="Sec" priority="0" />
+      <Item value="ingrList" priority="2" />
+      <Item value="List&lt;Ingridient&gt;" priority="1" />
+      <Item value="void" priority="9" />
+      <Item value="dataList" priority="4" />
+      <Item value="Ingr" priority="1" />
+      <Item value="Col" priority="2" />
+      <Item value="Ed" priority="1" />
+      <Item value="dgCombo1" priority="1" />
+      <Item value="dgCombo2" priority="0" />
+      <Item value="FillTypes`0" priority="1" />
+      <Item value="typeCombo" priority="0" />
+      <Item value="typeList" priority="1" />
+      <Item value="ObservableCollection" priority="2" />
+      <Item value="SetterBase`0" priority="3" />
+      <Item value="s" priority="6" />
+      <Item value="false" priority="3" />
+      <Item value="Xml" priority="1" />
+      <Item value="XmlWriter`0" priority="6" />
+      <Item value="writer" priority="18" />
+      <Item value="WriteState`0" priority="0" />
+      <Item value="ingridient" priority="9" />
+      <Item value="InputGesture`0" priority="0" />
+      <Item value="_Ingr" priority="0" />
+      <Item value="_Col" priority="0" />
+      <Item value="_Ed" priority="0" />
+      <Item value="Window1`0" priority="0" />
+      <Item value="orgTree1" priority="2" />
+      <Item value="data" priority="2" />
+      <Item value="Recipe`0" priority="6" />
+      <Item value="List&lt;Recipe&gt;" priority="1" />
+      <Item value="RecipeType`0" priority="1" />
+      <Item value="List&lt;RecipeType&gt;" priority="0" />
+      <Item value="AllRecipes`0" priority="0" />
+      <Item value="allRecipes" priority="2" />
+      <Item value="AllRecipes" priority="0" />
+      <Item value="RecipeType" priority="1" />
+      <Item value="Recipe" priority="2" />
+      <Item value="text" priority="1" />
+      <Item value="recipeType" priority="7" />
+      <Item value="name" priority="2" />
+      <Item value="recipe" priority="33" />
+      <Item value="PixelLab" priority="1" />
+      <Item value="Wpf" priority="1" />
+      <Item value="OrgTreeItem`0" priority="0" />
+      <Item value="OrgTreeItem" priority="0" />
+      <Item value="XmlReader`0" priority="1" />
+      <Item value="reader" priority="21" />
+      <Item value="while" priority="5" />
+      <Item value="XmlDocument`0" priority="3" />
+      <Item value="XmlDocument" priority="2" />
+      <Item value="doc" priority="11" />
+      <Item value="XmlNode`0" priority="5" />
+      <Item value="xmlNode" priority="0" />
+      <Item value="XmlAttribute`0" priority="1" />
+      <Item value="attr" priority="0" />
+      <Item value="XmlAttribute" priority="0" />
+      <Item value="XmlTextWriter`0" priority="2" />
+      <Item value="IO" priority="2" />
+      <Item value="ForegroundProperty" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="FileStream" priority="0" />
+      <Item value="Create" priority="0" />
+      <Item value="XmlTextWriter" priority="1" />
+      <Item value="Encoding`0" priority="0" />
+      <Item value="wrt" priority="0" />
+      <Item value="fs" priority="0" />
+      <Item value="recipeName" priority="4" />
+      <Item value="recipeText" priority="0" />
+      <Item value="XmlTextReader`0" priority="0" />
+      <Item value="Element" priority="0" />
+      <Item value="Console`0" priority="10" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="5" />
+      <Item value="break" priority="8" />
+      <Item value="value" priority="5" />
+      <Item value="EdgeMode`0" priority="0" />
+      <Item value="wr" priority="0" />
+      <Item value="node" priority="4" />
+      <Item value="root" priority="8" />
+      <Item value="XPath" priority="0" />
+      <Item value="XPathDocument`0" priority="0" />
+      <Item value="XPathDocument" priority="0" />
+      <Item value="XPathNavigator`0" priority="0" />
+      <Item value="xpdoc" priority="0" />
+      <Item value="XPathNodeIterator`0" priority="0" />
+      <Item value="it" priority="1" />
+      <Item value="textBlock1" priority="4" />
+      <Item value="recName" priority="1" />
+      <Item value="recType" priority="0" />
+      <Item value="recText" priority="0" />
+      <Item value="ing" priority="3" />
+      <Item value="stack" priority="4" />
+      <Item value="Label`0" priority="2" />
+      <Item value="TextBlock`0" priority="0" />
+      <Item value="TextBlock" priority="0" />
+      <Item value="tb" priority="1" />
+      <Item value="WhitespaceHandling`0" priority="1" />
+      <Item value="Brush`0" priority="3" />
+      <Item value="Color`0" priority="1" />
+      <Item value="Brushes`0" priority="4" />
+      <Item value="Label" priority="0" />
+      <Item value="FontWeight" priority="1" />
+      <Item value="FontWeight`0" priority="0" />
+      <Item value="FontWeights`0" priority="1" />
+      <Item value="Right" priority="0" />
+      <Item value="graph1" priority="0" />
+      <Item value="Common" priority="0" />
+      <Item value="treeView1" priority="5" />
+      <Item value="TreeView`0" priority="0" />
+      <Item value="TreeViewItem`0" priority="17" />
+      <Item value="TreeViewItem" priority="1" />
+      <Item value="i1" priority="2" />
+      <Item value="typeItem" priority="4" />
+      <Item value="as" priority="7" />
+      <Item value="ti" priority="9" />
+      <Item value="Directory`0" priority="1" />
+      <Item value="ReadRecipe`0" priority="2" />
+      <Item value="CreateTree`0" priority="1" />
+      <Item value="GetFileNames`0" priority="1" />
+      <Item value="ShowInStack`0" priority="0" />
+      <Item value="Control" priority="0" />
+      <Item value="UIElement`0" priority="0" />
+      <Item value="FontSize" priority="1" />
+      <Item value="Foreground" priority="2" />
+      <Item value="HorizontalContentAlignment" priority="0" />
+      <Item value="TextInputEvent" priority="0" />
+      <Item value="Content" priority="1" />
+      <Item value="fileName" priority="4" />
+      <Item value="Data" priority="0" />
+      <Item value="File`0" priority="2" />
+      <Item value="fileNum" priority="1" />
+      <Item value="rec" priority="3" />
+      <Item value="MouseButtonEventHandler" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="sender" priority="2" />
+      <Item value="readonly" priority="0" />
+      <Item value="TextWrapping" priority="0" />
+      <Item value="TextWrapping`0" priority="0" />
+      <Item value="LineBreakCondition`0" priority="0" />
+      <Item value="return" priority="4" />
+      <Item value="delegate" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="MyEventHandler`0" priority="0" />
+      <Item value="AddRec" priority="0" />
+      <Item value="MyEventHandler" priority="0" />
+      <Item value="Handler`0" priority="0" />
+      <Item value="AutoResizedEventArgs`0" priority="0" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="bool" priority="4" />
+      <Item value="BorderBrushProperty" priority="0" />
+      <Item value="Media" priority="1" />
+      <Item value="isCorrect" priority="1" />
+      <Item value="OK" priority="1" />
+      <Item value="Warning" priority="1" />
+      <Item value="isExist" priority="1" />
+      <Item value="Header" priority="0" />
+      <Item value="_typeList" priority="2" />
+      <Item value="recipeTypeSearch" priority="1" />
+      <Item value="AddRoot`0" priority="0" />
+      <Item value="UpdateTree`0" priority="0" />
+      <Item value="recipeNameSearch" priority="1" />
+      <Item value="index" priority="0" />
+      <Item value="CheckName`0" priority="1" />
+      <Item value="CheckType`0" priority="1" />
+      <Item value="expander1" priority="0" />
+      <Item value="RefreshTreee`0" priority="2" />
+      <Item value="CheckIngridient`0" priority="0" />
+      <Item value="recipeIngrSearch" priority="1" />
+      <Item value="ri" priority="1" />
+      <Item value="_recipeList" priority="3" />
+      <Item value="isIngrCont" priority="1" />
+      <Item value="Search`0" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="Style`0" priority="0" />
+      <Item value="style" priority="0" />
+      <Item value="Style" priority="0" />
+      <Item value="Cursor" priority="0" />
+      <Item value="Animation" priority="0" />
+      <Item value="button1" priority="0" />
+      <Item value="None" priority="0" />
+      <Item value="ComboBoxItem`0" priority="2" />
+      <Item value="Ink" priority="0" />
+      <Item value="Input" priority="0" />
+      <Item value="curShowIndex" priority="2" />
+      <Item value="MessageBoxButton`0" priority="0" />
+      <Item value="MS" priority="0" />
+      <Item value="msgbox" priority="0" />
+      <Item value="No" priority="0" />
+      <Item value="SortElementsInNode`0" priority="0" />
+      <Item value="IsEnabled" priority="0" />
+      <Item value="IsExpanded" priority="0" />
+      <Item value="_weigthList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CookBook.AddWindow">
+      <Item value="Show`0" priority="1" />
+      <Item value="OwnedWindows" priority="0" />
+      <Item value="comboBox3" priority="0" />
+      <Item value="Parent" priority="0" />
+      <Item value="FillComboBoxes`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="addRecipeButton" priority="0" />
+      <Item value="AddRec" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="Visibility" priority="3" />
+      <Item value="IsVisible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Visibility">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="AutoWordSelection" priority="0" />
+      <Item value="BindingGroup" priority="0" />
+      <Item value="Text" priority="3" />
+      <Item value="Foreground" priority="0" />
+      <Item value="FontStyle" priority="1" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Data.BindingGroup">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="CoerceValue`0" priority="0" />
+      <Item value="Items" priority="4" />
+      <Item value="Parent" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="IsEditable" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="AddToEventRoute`0" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Visibility" priority="0" />
+      <Item value="Padding" priority="0" />
+      <Item value="GroupStyle" priority="0" />
+      <Item value="ItemsSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="11" />
+      <Item value="Refresh`0" priority="2" />
+      <Item value="Indexer" priority="1" />
+      <Item value="CurrentItem" priority="0" />
+      <Item value="GetItemAt`0" priority="0" />
+      <Item value="Contains`0" priority="2" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="11" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="Remove`0" priority="2" />
+      <Item value="RemoveAt`0" priority="0" />
+      <Item value="Sort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Windows" priority="0" />
+      <Item value="MainWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="FindName`0" priority="1" />
+      <Item value="FindResource`0" priority="0" />
+      <Item value="Children" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="IndexOf`0" priority="0" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="5" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="Insert`0" priority="1" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="ToLower`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.VerticalAlignment">
+      <Item value="Top" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGrid">
+      <Item value="RowBackground" priority="0" />
+      <Item value="ItemsSource" priority="2" />
+      <Item value="Items" priority="2" />
+      <Item value="Columns" priority="4" />
+      <Item value="ColumnWidth" priority="1" />
+      <Item value="DataContext" priority="1" />
+      <Item value="UpdateLayout`0" priority="0" />
+      <Item value="CurrentCell" priority="2" />
+      <Item value="CurrentColumn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="ElementAt`1" priority="0" />
+      <Item value="All`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGridLength">
+      <Item value="DesiredValue" priority="1" />
+      <Item value="IsSizeToCells" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGridColumn">
+      <Item value="Width" priority="4" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="DisplayIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGridComboBoxColumn">
+      <Item value="ItemsSource" priority="1" />
+      <Item value="EditingElementStyle" priority="0" />
+      <Item value="IsReadOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Style">
+      <Item value="Setters" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.SetterBaseCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.SetterBase">
+      <Item value="IsSealed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGridTemplateColumn">
+      <Item value="CellEditingTemplate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.DataTemplate">
+      <Item value="DataTemplateKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlWriter">
+      <Item value="Create`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriter">
+      <Item value="WriteStartElement`0" priority="2" />
+      <Item value="WriteAttributeString`0" priority="0" />
+      <Item value="WriteEndElement`0" priority="3" />
+      <Item value="WriteStartDocument`0" priority="0" />
+      <Item value="WriteEndDocument`0" priority="2" />
+      <Item value="Close`0" priority="0" />
+      <Item value="WriteComment`0" priority="0" />
+      <Item value="WriteAttributes`0" priority="0" />
+      <Item value="WriteElementString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CookBook.Ingridient">
+      <Item value="Ingr" priority="7" />
+      <Item value="Ed" priority="3" />
+      <Item value="Col" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixelLab.Wpf.OrgTree">
+      <Item value="ItemsSource" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CookBook.AllRecipes">
+      <Item value="recTypes" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CookBook.RecipeType">
+      <Item value="recList" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixelLab.Wpf.OrgTreeItem">
+      <Item value="Header" priority="0" />
+      <Item value="MouseDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="ReadStartElement`0" priority="1" />
+      <Item value="ReadAttributeValue`0" priority="2" />
+      <Item value="EOF" priority="0" />
+      <Item value="AttributeCount" priority="0" />
+      <Item value="GetAttribute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="ReadNode`0" priority="0" />
+      <Item value="WriteContentTo`0" priority="0" />
+      <Item value="WriteTo`0" priority="0" />
+      <Item value="AppendChild`0" priority="0" />
+      <Item value="FirstChild" priority="2" />
+      <Item value="LocalName" priority="0" />
+      <Item value="Load`0" priority="0" />
+      <Item value="DocumentElement" priority="2" />
+      <Item value="ChildNodes" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="Attributes" priority="0" />
+      <Item value="AppendChild`0" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="SelectSingleNode`0" priority="0" />
+      <Item value="InnerText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Name" priority="1" />
+      <Item value="LocalName" priority="0" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="BeginRead`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlTextWriter">
+      <Item value="WriteNode`0" priority="0" />
+      <Item value="WriteString`0" priority="0" />
+      <Item value="WriteEndElement`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixelLab.Wpf.InfoTextBox">
+      <Item value="Text" priority="5" />
+      <Item value="Background" priority="1" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlTextReader">
+      <Item value="Read`0" priority="0" />
+      <Item value="NodeType" priority="0" />
+      <Item value="HasAttributes" priority="1" />
+      <Item value="MoveToNextAttribute`0" priority="0" />
+      <Item value="Name" priority="3" />
+      <Item value="Value" priority="5" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="11" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CookBook.Recipe">
+      <Item value="name" priority="5" />
+      <Item value="type" priority="5" />
+      <Item value="text" priority="3" />
+      <Item value="ingridients" priority="2" />
+      <Item value="Name" priority="2" />
+      <Item value="Type" priority="3" />
+      <Item value="Ingridients" priority="0" />
+      <Item value="fileName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNodeList">
+      <Item value="Item`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XPath.XPathDocument">
+      <Item value="CreateNavigator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XPath.XPathNavigator">
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XPath.XPathNodeIterator">
+      <Item value="Current" priority="0" />
+      <Item value="MoveNext`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="4" />
+      <Item value="ContentEnd" priority="1" />
+      <Item value="Foreground" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="2" />
+      <Item value="FontWeight" priority="1" />
+      <Item value="HorizontalContentAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="Children" priority="2" />
+      <Item value="UpdateLayout`0" priority="1" />
+      <Item value="Style" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Color">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Brush">
+      <Item value="TransformProperty" priority="1" />
+      <Item value="OpacityProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Brushes">
+      <Item value="White" priority="2" />
+      <Item value="Green" priority="1" />
+      <Item value="Red" priority="0" />
+      <Item value="IndianRed" priority="0" />
+      <Item value="MediumVioletRed" priority="0" />
+      <Item value="OrangeRed" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontWeights">
+      <Item value="Thin" priority="0" />
+      <Item value="Bold" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PixelLab.Wpf.Graph">
+      <Item value="CenterObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TreeView">
+      <Item value="ItemsSource" priority="0" />
+      <Item value="Items" priority="6" />
+      <Item value="FindName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TreeViewItem">
+      <Item value="Name" priority="2" />
+      <Item value="Header" priority="5" />
+      <Item value="Items" priority="11" />
+      <Item value="MouseDoubleClick" priority="2" />
+      <Item value="AddToEventRoute`0" priority="0" />
+      <Item value="MouseDown" priority="0" />
+      <Item value="Expanded" priority="0" />
+      <Item value="IsExpanded" priority="1" />
+      <Item value="Initialized" priority="0" />
+      <Item value="Style" priority="1" />
+      <Item value="Background" priority="0" />
+      <Item value="Foreground" priority="0" />
+      <Item value="Cursor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="0" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="1" />
+      <Item value="Delete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextWrapping">
+      <Item value="Wrap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Expander">
+      <Item value="IsExpanded" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CookBook.MainWindow">
+      <Item value="BeginAnimation`0" priority="0" />
+      <Item value="Height" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FrameworkElement">
+      <Item value="HeightProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
+      <Item value="Key" priority="0" />
+      <Item value="KeyStates" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.Key">
+      <Item value="Enter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGridCellInfo">
+      <Item value="GetType`0" priority="0" />
+      <Item value="Item" priority="4" />
+      <Item value="IsValid" priority="0" />
+      <Item value="Column" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBoxItem">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OKCancel" priority="0" />
+      <Item value="YesNo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.MessageBoxResult">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
